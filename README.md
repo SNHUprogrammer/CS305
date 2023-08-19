@@ -1,2 +1,8 @@
 # CS305
 A repository for Module Eight
+
+Client Artemis Financial summary:
+Artemis Financial wanted to modernize their operations. As a crucial part of the success of their custom software, they also wanted to use the most current and effective software security. Artemis Financial has a public web interface. They sought to protect their client data and financial information. Specifically, Artemis Financial wanted to add a file verification step to their web application to ensure secure communications. When the web application is used to transfer data, a data verification step in the form of a checksum is needed. Secure communication mechanisms were added to meet their software security requirements.
+
+Addressing Client’s Software Security Vulnerabilities:
+Coding securely is very important because it covers multiple steps of the Vulnerability Assessment Process Flow Diagram. Specifically, secure coding prevents malicious access to resources. Software security adds strengthened public image to a company’s overall wellbeing. The most challenging part of the vulnerability assessment was identifying specific weakpoints in the existing software. To increase layers of security, all the found vulnerabilities were addressed and mitigated with modern secure coding practices. To make certain the code and software application were functional and secure, multiple types of testing were conducted against the application. After refactoring the code, another vulnerability assessment was conducted to find new vulnerabilities. The JUnit framework and Maven are two specific tools that proved very useful, which I plan on using in future applications. From this assignment, I have gained the ability to claim proficieny with Maven builds.
